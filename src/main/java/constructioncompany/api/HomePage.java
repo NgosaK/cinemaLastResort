@@ -18,7 +18,7 @@ public class HomePage {
     public String Index(){
         return "<h1>Welcome to the CINEMA MANAGEMENT APPLICATION</h1>" +
                 "<p>This application corresponds to the Technical Programming 2 course</p>" +
-                "<p>plato o plomo</p>";
+                "<p>IDEK</p>";
     }
 
     /*@RequestMapping(value = "/site", method = RequestMethod.GET)
